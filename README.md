@@ -32,7 +32,7 @@
 
 <!-- =============== GitHub 统计 =============== -->
 <p align="center">
-  <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CryoLogicat&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CryoLogicat&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"/>
 </p>
 
 <!-- =============== 最新博客 / 动态 =============== -->
@@ -41,24 +41,14 @@
 
 <!-- ===============  trophy =============== -->
 <p align="center">
-  < img src="https://github-profile-trophy.vercel.app/?username=CryoLogicat&theme=radical&row=1&column=6" />
-</p >
+  <img src="https://github-profile-trophy.vercel.app/?username=CryoLogicat&theme=radical&row=1&column=6" />
+</p>
 
 <!-- =============== 页脚彩蛋 =============== -->
 <p align="center">
-  < img src="https://capsule-render.vercel.app/api?type=rect&color=0066ff&height=50&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff" width="100%" />
-</p >
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0066ff&height=50&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff" width="100%"/>
+</p>
 
 <!-- =============== 打字机效果（可选） =============== -->
 <!-- 把下面这段放到最底部，即可实现自动打字 -->
-<script src="https://unpkg.com/ityped@1.0.3/dist/index.min.js"></script>
-<span id="ityped" style="display:block;text-align:center"></span>
-<script>
-  window.ityped。init(document.querySelector('#ityped'), {
-    strings: ['{{打字1}}', '{{打字2}}', '{{打字3}}'],
-    loop: true,
-    typeSpeed: 100,
-    backSpeed: 50,
-    startDelay: 200
-  })
-</script>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&width=435&lines=Hi,+I+am+CryoLogicat+👋;I+love+LLM+and+NLP;你好，我是冰瓜猫;我喜欢大语言模型和自然语言处理)
