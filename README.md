@@ -2,7 +2,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CryoLogicat&style=flat-square&color=00adef)
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=CryoLogicat&fontSize=40&fontAlignY=35&desc=LLM%20and%20NLP&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=CryoLogicat&fontSize=40&fontAlignY=35&descAlignY=55&descSize=20" width="100%" />
 </h1>
 
 <!-- =============== 一句话自我介绍 =============== -->
@@ -24,7 +24,6 @@
 - 🎓 专业/学历：人工智能专业
 - 💼 目前：本科生
 - 🌱 正在学习：自然语言处理、机器学习、深度学习、强化学习
-- ⚡ 爱好：Plants VS Zombies，乒乓球
 
 <!-- =============== 技术栈 =============== -->
 ## 🛠️ Tech Stack
