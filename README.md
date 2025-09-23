@@ -38,11 +38,6 @@
 ## ✍️ Posts
 - [我的博客主页](https://www.cnblogs.com/icewatermeloncat)
 
-<!-- ===============  trophy =============== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CryoLogicat&theme=radical&row=1&column=6" />
-</p>
-
 <!-- =============== 页脚彩蛋 =============== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0066ff&height=50&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff" width="100%"/>
