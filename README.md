@@ -42,7 +42,7 @@
 <!-- =============== 最新博客 / 动态 =============== -->
 ## ✍️ Posts
 - [我的博客主页](https://www.cnblogs.com/icewatermeloncat)
-- [我的个人主页](https://qydu.top)
+- [我的个人主页](https://www.qydu.top)
 
 <!-- =============== 页脚彩蛋 =============== -->
 <p align="center">
@@ -51,4 +51,4 @@
 
 <!-- =============== 打字机效果（可选） =============== -->
 <!-- 把下面这段放到最底部，即可实现自动打字 -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&width=435&lines=Hi,+I+am+CryoLogicat+👋;I+love+LLM+and+NLP;你好，我是冰瓜猫;我喜欢大语言模型和自然语言处理)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&width=435&lines=Hi,+I+am+CryoLogicat+👋; Welcome+to+my+profile!)
