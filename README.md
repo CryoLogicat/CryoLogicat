@@ -7,12 +7,13 @@
 
 <!-- =============== 一句话自我介绍 =============== -->
 <p align="center">
-  <strong>正在学习大语言模型相关技术</strong>
+  <strong>哈尔滨工业大学未来技术学院人工智能专业2023级本科生</strong>
 </p >
 
 <!-- =============== 社交按钮 =============== -->
 <p align="center">
   <a href="mailto:qunyao.du@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:qunyao.du@foxmail.com"><img src="https://img.shields.io/badge/-Foxmail-E85526?style=flat&logo=foxmail&logoColor=white"/></a>
   <a href="https://space.bilibili.com/627043519"><img src="https://img.shields.io/badge/-哔哩哔哩-00A1D6?style=flat&logo=bilibili&logoColor=white"/></a>
 </p>
 
@@ -20,7 +21,7 @@
 
 <!-- =============== 关于我 =============== -->
 ## 👋 About Me
-- 🏠 所在城市：黑龙江省哈尔滨市
+- 🏠 所在学校：哈尔滨工业大学
 - 🎓 专业/学历：人工智能专业
 - 💼 目前：本科生
 - 🌱 正在学习：自然语言处理、机器学习、深度学习、强化学习
@@ -28,6 +29,10 @@
 <!-- =============== 技术栈 =============== -->
 ## 🛠️ Tech Stack
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch"/></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="NumPy"/></code>
+<code><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"/></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" alt="Scikit-learn"/></code>
 
 <!-- =============== GitHub 统计 =============== -->
 <p align="center">
