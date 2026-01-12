@@ -51,4 +51,4 @@
 
 <!-- =============== 打字机效果（可选） =============== -->
 <!-- 把下面这段放到最底部，即可实现自动打字 -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&width=435&lines=Hi,+I+am+CryoLogicat+👋; Welcome+to+my+profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=21&pause=1000&width=435&lines=Hi,+I+am+CryoLogicat+👋;Welcome+to+my+profile!)
